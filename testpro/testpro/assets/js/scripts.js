@@ -1,6 +1,6 @@
 /*
-Author       : theme_ocean
-Template Name: Miami - Multipurpose One Page Bootstrap Template
+Author       : khilinski
+Template Name: test
 Version      : 1.0
 */
 (function($) {
